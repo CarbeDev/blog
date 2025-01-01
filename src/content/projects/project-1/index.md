@@ -2,7 +2,7 @@
 title: "My blog"
 summary: "The blog that you reading"
 date: "Jan 01 2025"
-draft: true
+draft: false
 tags:
 - Astro
 - Javascript
