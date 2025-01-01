@@ -1,8 +1,8 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
-draft: false
+title: "My blog"
+summary: "The blog that you reading"
+date: "Jan 01 2025"
+draft: true
 tags:
 - Astro
 - Javascript
@@ -13,4 +13,7 @@ demoUrl: https://astro-sphere-demo.vercel.app
 repoUrl: https://github.com/markhorn-dev/astro-sphere
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+It's been a while that i'm thinking about launching a blog. But i was reticent because of my 'lack' of experience. Am i legit ?
+Who would read a blog by a junior developer that barely speaks english and has so much bad taste on frontend ?
+But then, I write down my goals for 2025. The first is "Become a better developper".  
+
