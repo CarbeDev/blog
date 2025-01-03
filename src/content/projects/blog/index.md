@@ -13,10 +13,9 @@ demoUrl: http://carbe.tech
 repoUrl: https://github.com/CarbeDev/my-blog
 ---
 
-It's been a while that i'm thinking about launching a blog. But i was reticent because of my 'lack' of experience. Am i legit ?
-Who would read a blog by a junior developer that barely speaks english and has so much bad taste on frontend ?
-But then, I write down my goals for 2025. The first is "Become a better developper".  
-One of the best way to do it is by explain what you learn to someone else. Why not share these explanations to the world ?
-In the first hand, someone will learn a thing in one of the articles, and in the other other, I can be correct by someone if I said something wrong.
-
-I'm using the astro sphere template from (markhorn-dev)[https://github.com/markhorn-dev], I will update the ui if needed§
+It has been a while since I've been thinking about launching a blog. But I was reluctant because of my 'lack' of experience. Am I legitimate?
+Who would read a blog by a junior developer that barely speaks English and has such bad taste in frontend?
+But then, I wrote down my goals for 2025. The first is "Become a better developer".
+One of the best ways to do it is by explaining what you learn to someone else. Why not share these explanations with the world?
+On one hand, someone will learn something from one of the articles, and on the other hand, I can be corrected by someone if I say something wrong.  
+I'm using the astro sphere template from (markhorn-dev)[https://github.com/markhorn-dev].
