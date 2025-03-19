@@ -10,7 +10,7 @@ tags:
 - Tailwind
 - SolidJs
 demoUrl: http://carbe.tech
-repoUrl: https://github.com/CarbeDev/my-blog
+repoUrl: https://github.com/CarbeDev/blog
 ---
 
 It has been a while since I've been thinking about launching a blog. But I was reluctant because of my 'lack' of experience. Am I legitimate?
