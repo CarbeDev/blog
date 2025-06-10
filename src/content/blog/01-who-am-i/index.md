@@ -84,4 +84,4 @@ you'll be shocked if I show you my project cemetery.
 That's why I decided to write my own articles. I will have to finish project to show the in the [project](/project) section, 
 And if I can share with you all golden nuggets of tomorrow, it will kill two birds with one stone (this expression is so dramatic in english). 
 I will also speak about my life because it can inspire some people and it's always good for the mental health to write down what you think.  
-Subscribe to the [RSS](/rss.xml) feed, if you don't want to miss the next article (still about my life, but this time looking forward)
+Subscribe to the [RSS](/rss.xml) feed, if you don't want to miss the next articles>
